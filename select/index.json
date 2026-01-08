@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "ラスカ",
+  "base_artist": "gesunokiwamiotome",
+  "createdAt": "2026-01-08T14:49:25.711480Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ラスカ",
+      "artist": "ゲスの極み乙女。",
+      "has_synced": false,
+      "path": "select/pl_01_ラスカ_ゲスの極み乙女。.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "ラスカ",
+      "artist": "ゲスの極み乙女。",
+      "has_synced": false,
+      "path": "select/pl_02_ラスカ_ゲスの極み乙女。.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "ラスカ",
+      "artist": "ゲスの極み乙女。",
+      "has_synced": false,
+      "path": "select/pl_03_ラスカ_ゲスの極み乙女。.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "ラスカ",
+      "artist": "ゲスの極み乙女。",
+      "has_synced": false,
+      "path": "select/pl_04_ラスカ_ゲスの極み乙女。.txt"
+    }
+  ]
+}
